@@ -1,10 +1,8 @@
 # ML_Miro
 implement in python/jupyter notebook
 
------------
-
 예시)
-
+-----------
 
 <img width="221" alt="Maze (2)" src="https://user-images.githubusercontent.com/66946182/97828024-44233000-1d09-11eb-8383-5238aca9ee61.png">
 
