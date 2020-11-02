@@ -1,4 +1,7 @@
 # ML_Miro
+
+<img width="221" alt="Maze (2)" src="https://user-images.githubusercontent.com/66946182/97828024-44233000-1d09-11eb-8383-5238aca9ee61.png">
+
 -6X6 크기의 미로
 
 -10개의 wall이 배치
